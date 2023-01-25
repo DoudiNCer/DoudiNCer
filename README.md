@@ -9,11 +9,11 @@ I am a special cat who can code in Java, Go, C++, etc...
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=DoudiNCer&show_icons=true&theme=cobalt)](https://github.com/DoudiNCer/github-readme-stats)-->
 
 <div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoudiNCer&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoudiNCer&layout=compact&langs_count=8&theme=cobalt" align="center" />
 <img height='180' src="https://github-readme-stats.vercel.app/api?username=DoudiNCer&show_icons=true&theme=cobalt" align="center" />
-</div>  
+</div>
 
-<br/>  
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
